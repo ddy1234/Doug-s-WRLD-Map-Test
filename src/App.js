@@ -3,7 +3,7 @@ import * as Wrld from 'wrld.js';
 
 import './App.css';
 
-const wrldApiKey = '682113b50aa4ddb55c1d9d81175bf6f5';
+const wrldApiKey = '534b3767557e7806de79d87b1b400de7';
 const abertay = [56.46335, -2.97490];
 
 class App extends Component {
